@@ -20,3 +20,8 @@ Other resources to help you develop MiddCourses.
 - [Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1): A Git tutorial in your browser. Doesn't even require a command line. Highly recommend.
 - [Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository): Good starting place. The basic commands you need to use Git.
 - [Git Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf): A Git cheatsheet, from GitHub.
+
+### LESS
+
+- [LESS Language](http://lesscss.org/features/): How to actually write LESS.
+- [LESS Homepage](http://lesscss.org/): The homepage.
