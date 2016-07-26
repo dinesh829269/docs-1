@@ -17,6 +17,6 @@ How to write, maintain and run MiddCourses.
 
 - [Support](https://github.com/middcourses/docs/tree/master/support)
 
-- [Working Agreements]
+- [Working Agreements](https://github.com/middcourses/docs/tree/master/working-agreements)
   - [LESS Style Guide](https://github.com/middcourses/docs/blob/master/working-agreements/less-style-guide.md)
   - [Python Style Guide](https://github.com/middcourses/docs/blob/master/working-agreements/python-style-guide.md)
