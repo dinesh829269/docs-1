@@ -1,8 +1,8 @@
 ## Local Development
 
-For resource-specific documentation and tutorials see the [Additional Resources](Additional-Resources).
+For resource-specific documentation and tutorials see the [Additional Resources](https://github.com/middcourses/docs/blob/master/development/additional-resources.md).
 
-Note: See the [Windows](Windows) page for tooling specific to development on Windows.
+Note: See the [Windows](https://github.com/middcourses/docs/blob/master/guides/windows.md) page for tooling specific to development on Windows.
 
 ### You need
 
@@ -63,7 +63,7 @@ $ fab reset_db
 
 This will destroy the current development database if it exists and create a new one with the schema described in the [migrations][migrations].
 
-The other [Fabric][fabric] commands are documented [in the wiki][fabric wiki].
+The other [Fabric][fabric] commands are documented [here](https://github.com/middcourses/docs/blob/master/development/fabric.md).
 
 ### Start developing
 
@@ -81,6 +81,5 @@ As you work on the project, you can see your changes locally in your web browser
 [git]: http://git-scm.com/ "Git"
 [migrations]: https://docs.djangoproject.com/en/1.9/topics/migrations/ "Django migrations"
 [fabric]: http://www.fabfile.org/ "Fabric"
-[fabric wiki]: https://github.com/coursereviews/coursereviews/wiki/Fabric "Course Reviews Fabric Wiki"
 [GitHub HTTPS]: https://help.github.com/articles/which-remote-url-should-i-use/#cloning-with-https-urls-recommended
 [2FA]: https://help.github.com/articles/about-two-factor-authentication/
