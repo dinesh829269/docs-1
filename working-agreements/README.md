@@ -10,5 +10,5 @@ Common rules we follow when working on MiddCourses for consistency and transpare
 > ~ [idomatic.js](https://github.com/rwaldron/idiomatic.js/)
 
 * [Python](https://github.com/middcourses/docs/blob/master/working-agreements/python-style-guide.md)
-* CSS/LESS
+* [LESS](https://github.com/middcourses/docs/blob/master/working-agreements/less-style-guide.md)
 * JavaScript
