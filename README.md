@@ -11,6 +11,7 @@ How to write, maintain and run MiddCourses.
 
 - [Guides](https://github.com/middcourses/docs/tree/master/guides)
   - [Package Managers](https://github.com/middcourses/docs/blob/master/guides/package-managers.md)
+  - [Scrapecourses to Catalog Migration Plan](https://github.com/middcourses/docs/blob/master/guides/scrapecourses-to-catalog-migration-plan.md)
 
 - [Onboarding](https://github.com/middcourses/docs/tree/master/onboarding)
   - [Local Development](https://github.com/middcourses/docs/blob/master/onboarding/local-development.md)
