@@ -6,7 +6,7 @@ Write tests for old, previously untested, code as you are able.
 
 If you uncover and fix a bug, write tests to ensure it stays fixed.
 
-### CI
+### Continuous Integration (CI)
 
 Whenever you push code to GitHub (the Git remote) or open a Pull Request, the
 [CI](https://travis-ci.org/coursereviews/coursereviews) will run the linter
