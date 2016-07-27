@@ -6,6 +6,15 @@ Write tests for old, previously untested, code as you are able.
 
 If you uncover and fix a bug, write tests to ensure it stays fixed.
 
+### CI
+
+Whenever you push code to GitHub (the Git remote) or open a Pull Request, the
+[CI](https://travis-ci.org/coursereviews/coursereviews) will run the linter
+and the tests using the commands in
+[.travis.yml](https://github.com/coursereviews/coursereviews/blob/master/.travis.yml).
+The tests should pass on the CI before you merge a pull request into the master branch
+and deploy to production.
+
 ### Testing Resources
 
 * [Testing in Django](https://docs.djangoproject.com/en/1.9/topics/testing/):
