@@ -68,6 +68,16 @@ Professors do not see this button, as they can't write reviews.
 
 #### 3. Push your branch
 
+Push your branch to the remote, likely called `origin`. This creates a new branch on the
+repository from which you cloned.
+
+The official Git website has some
+[additional resources](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#Pushing-to-Your-Remotes).
+
+```sh
+$ git push origin feature/list-reviews
+```
+
 #### 4. Open a Pull Request
 
 #### 5. Discuss and review the Pull Request with collaborators
