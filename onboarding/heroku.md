@@ -16,3 +16,5 @@ From your [account page](https://dashboard.heroku.com/account), click
 
 Two-factor authentication (often called 2FA) provides a second level of security
 should your password be compromised.
+
+![Heroku Two-factor Authentication](heroku-2fa.png)
