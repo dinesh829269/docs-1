@@ -1,3 +1,5 @@
+## Add a Term's Courses to the Database
+
 ### Get setup locally
 
 0. Navigate to `coursereviews`
@@ -12,4 +14,10 @@
 
 ### Scrape the courses locally
 
+0. `python manage.py scrapecatalog --term 201690 --verbosity 2` [See the guide to term numbers.](term-numbers.md)
+0. Start the server again and make sure everything looks good. Maybe check on a new professor or course.
 
+### Scrape the courses in production
+
+0. `heroku run python manage.py scrapecatalog --term 201690 --verbosity 2`
+0. Visit [middcourses.com](www.middcourses.com) and make sure everything looks good.
