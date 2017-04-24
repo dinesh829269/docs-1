@@ -8,16 +8,16 @@ of the school year for Febs), quota is set to 0, since the new students haven't 
 
 ### Setting the quota
 
-0. Navigate to http://www.middcourses.com/djadmin/cr_admin/adminquota/2/ and set the **New quota**
-field to either 0 or 2.
-0. Save the AdminQuota object
+1. Navigate to http://www.middcourses.com/djadmin/cr_admin/adminquota/2/ and set the **New quota**
+   field to either 0 or 2.
+2. Save the AdminQuota object
 
 ### Resetting `semester_reviews` to 0
 
 You must do this when you change the quota from 0 to 2, or the change won't have an effect.
 
-0. Start a Django shell in production `heroku run python manage.py shell` (you must be in the `coursereviews` directory)
-0. In the shell:
+1. Start a Django shell in production `heroku run python manage.py shell` (you must be in the `coursereviews` directory)
+2. In the shell:
 
 ```python
 from users.models import UserProfile
